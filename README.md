@@ -1,2 +1,2 @@
-# aq_channel_analysis
+# AQ Channel Analysis
 London-based AQ app analysis
